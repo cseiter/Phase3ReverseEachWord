@@ -25,3 +25,4 @@ reverse_each_word("Hello there, and how are you?")
 **Hint:** *How can we reverse each word and return those altered words? Remember that* `.each` *returns the original array but other enumerators don't.*
 
 
+# Phase3ReverseEachWord
